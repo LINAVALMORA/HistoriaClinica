@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+      <title>{{ HistoriaClinica }}</title>
+</head>
+
+<body>
+        <h1>Paciente</h1>
+</body>
+
+</html> 
+
+
+
