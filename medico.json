@@ -1,0 +1,37 @@
+[{
+  "_id": 2,
+  "nombre": "Luis Ferando",
+  "apellido": "Ortiz Obonaga",
+  "cedula": 123456789,
+  "email": "luisfortiz80@gmail.com",
+  "dreccion": "Avenida Siempre Viva 123",
+  "fechanac": {
+    "$date": {
+      "$numberLong": "500342400000"
+    }
+  },
+  "especialidad": "Otorrinonaringologo",
+  "disponibilidad": {
+    "$date": {
+      "$numberLong": "1668063600000"
+    }
+  }
+},{
+  "_id": 1,
+  "nombre": "Oscar Javier",
+  "apellido": "Mendoza",
+  "cedula": 123456789,
+  "email": "Luffy123@gmail.com",
+  "direccion": "Avenida Siempre Viva 123",
+  "fechanac": {
+    "$date": {
+      "$numberLong": "483926400000"
+    }
+  },
+  "especialidad": "Loquero",
+  "disponibilidad": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  }
+}]

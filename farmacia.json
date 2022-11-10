@@ -1,0 +1,15 @@
+[{
+  "_id": 501,
+  "nombre": "Naproxeno 250 Mg",
+  "Laboratorio": "Anglopharma S.A",
+  "via": "Oral",
+  "forma": "Capsula Dura",
+  "Cantidad": 100
+},{
+  "_id": 502,
+  "nombre": "Acetaminofen 500 Mg",
+  "Laboratorio": "A-Z Pharma S.A",
+  "via": "Oral",
+  "Forma": "Comprimido",
+  "Cantidad": 100
+}]
